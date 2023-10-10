@@ -1,0 +1,6 @@
+2023-10-10 14:36:56 WARN  Utils:69 - Your hostname, OASIS-CORP.local resolves to a loopback address: 127.0.0.1; using 192.168.225.160 instead (on interface en0)
+2023-10-10 14:36:56 WARN  Utils:69 - Set SPARK_LOCAL_IP if you need to bind to another address
+2023-10-10 14:36:57 WARN  NativeCodeLoader:60 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2023-10-10 14:36:58 WARN  Utils:69 - Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+2023-10-10 14:36:58 WARN  Utils:69 - Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+2023-10-10 14:37:01 WARN  MetricsConfig:136 - Cannot locate configuration: tried hadoop-metrics2-s3a-file-system.properties,hadoop-metrics2.properties

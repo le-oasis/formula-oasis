@@ -1,0 +1,2 @@
+2023-10-10 14:24:18 WARN  NativeCodeLoader:60 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2023-10-10 14:24:20 WARN  Utils:69 - Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
