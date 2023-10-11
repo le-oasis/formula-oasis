@@ -4,3 +4,5 @@
 2023-10-10 14:36:58 WARN  Utils:69 - Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
 2023-10-10 14:36:58 WARN  Utils:69 - Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
 2023-10-10 14:37:01 WARN  MetricsConfig:136 - Cannot locate configuration: tried hadoop-metrics2-s3a-file-system.properties,hadoop-metrics2.properties
+2023-10-10 17:08:16 WARN  HeartbeatReceiver:69 - Removing executor driver with no recent heartbeats: 1210247 ms exceeds timeout 120000 ms
+2023-10-10 17:08:16 WARN  SparkContext:69 - Killing executors is not supported by current scheduler.
